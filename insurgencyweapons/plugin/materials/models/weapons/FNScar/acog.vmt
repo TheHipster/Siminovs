@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\FNScar\acog"
+	"$bumpmap" "models\weapons\FNScar\acog_norm"
+}

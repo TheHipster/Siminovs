@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\HK416\acoglared"
+	"$bumpmap"	"models\weapons\HK416\acog_norm"
+}

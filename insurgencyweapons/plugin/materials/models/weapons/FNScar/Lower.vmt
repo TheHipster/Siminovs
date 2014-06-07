@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\FNScar\Lower"
+	"$bumpmap" "models\weapons\FNScar\lower_norm"
+}

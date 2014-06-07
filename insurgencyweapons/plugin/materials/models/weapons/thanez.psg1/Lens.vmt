@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\weapons\thanez.psg1\Lens"
+	"$bumpmap" 			"models\weapons\thanez.psg1\Lens_Normal"
+ 	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+}

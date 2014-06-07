@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\hands\v_hands_us"
+	"$bumpmap" 			"models\hands\v_hands_normal_spec"
+	"$halflambert" 			"1"
+        "$envmap" 			"env_cubemap"
+        "$normalmapalphaenvmapmask" 	"1"
+	"$envmapcontrast" 		"0.4"
+	"$envmapsaturation" 		"0.7"
+	"$envmaptint" 			"[ .4 .4 .4 ]"
+	"$phong" 			"1"
+	"$phongexponenttexture" 	"models\hands\v_hands_exponent"
+	"$phongboost"			"6"
+	"$phongfresnelranges"		"[0.01 0.4 3]"
+}

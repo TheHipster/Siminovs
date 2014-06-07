@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\lense\crosshair_svd"
+	"$translucent" 	"1"
+
+}

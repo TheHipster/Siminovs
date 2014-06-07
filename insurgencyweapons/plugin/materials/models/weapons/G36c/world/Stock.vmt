@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\G36c\world\Stock"
+	"$nocull" "1"
+}

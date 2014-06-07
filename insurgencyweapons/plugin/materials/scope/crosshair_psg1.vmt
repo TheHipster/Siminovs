@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\thanez.psg1\crosshair_psg1"
+	"$translucent" 	"1"
+}
+
+
+

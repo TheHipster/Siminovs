@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture"	"scope/acog_reticule"
+	"$translucent" 	"1"
+
+}

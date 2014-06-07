@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models\weapons\FNScar\lense\lense_rt"
+	"$nocull" 	"1"
+	"$model" "1"
+	"Proxies"
+	{
+		"Scope"
+		{
+			"textureScrollVar" 	"$baseTextureTransform"
+			"fieldOfView"	"10"
+			"scopeGeometry"	"24" // 1 / sin( arctan( radius / ( 2 * length ) ) )
+			"crosshairTexture"	"models/weapons/FNScar/lense/acog_reticule"
+		}
+	}
+}
+
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\p90\Clip"
+	"$envmapmask" "models\weapons\p90\Clip_ref"
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models\weapons\eod_xm8\scope"
+	"$bumpmap"			"models\weapons\eod_xm8\scope_normal"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\HK416\Eotech Magnifier"
+	"$bumpmap"	"models\weapons\HK416\Eotech Magnifier_normal"
+}

@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\lense\lense_xm8"
+	"$nocull" 	"1"
+	"$envmap" 	"env_cubemap"
+	"$bumpmap"	"models\weapons\lense\lense_normal" 
+	"$normalmapalphaenvmapmask" "1"
+	"$translucent" 	"1"
+	"$envmapcontrast" 	"0.6"
+	"$envmapsaturation" 	"0.6"
+	"_rt_ZoomTexture" "models\weapons\lense\crosshairtest"
+}

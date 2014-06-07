@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\HK416\stock2_skin1"
+	"$bumpmap"	"models\weapons\HK416\stock2_skin1_normal"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"models\weapons\lense\dot"
+	"$translucent" "1"
+	"$model" "1"	
+}

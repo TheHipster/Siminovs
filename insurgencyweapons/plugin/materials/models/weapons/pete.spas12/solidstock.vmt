@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\pete.spas12\solidstock"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\pete.spas12\solidstock_ref"
+}

@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models\weapons\lense\lense_rt_svd"
+	"$nocull" 	"1"
+	"$model" "1"
+	"Proxies"
+	{
+		"Scope"
+		{
+			"textureScrollVar" 	"$baseTextureTransform"
+			"fieldOfView"	"2"
+			"scopeGeometry"	"24" // 1 / sin( arctan( radius / ( 2 * length ) ) )
+			"crosshairTexture"	"models/weapons/lense/crosshair_svd"
+		}
+	}
+}
+
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\HK416\anpeq_new"
+	"$bumpmap" "models\weapons\HK416\anpeq_normal"
+}
+

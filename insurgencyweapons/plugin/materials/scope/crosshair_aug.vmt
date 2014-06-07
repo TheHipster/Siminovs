@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture"	"models\weapons\auga3\crosshair_m4"
+	"$translucent" 	"1"
+}

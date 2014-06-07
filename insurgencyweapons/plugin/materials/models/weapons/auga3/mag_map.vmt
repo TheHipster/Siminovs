@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\auga3\mag_map"
+      	"$bumpmap" "models\weapons\auga3\mag_map_normal"
+}

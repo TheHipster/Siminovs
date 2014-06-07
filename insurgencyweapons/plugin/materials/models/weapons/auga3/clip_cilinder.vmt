@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\auga3\clip_cilinder"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.10 .10 .10]"
+}

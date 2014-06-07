@@ -1,0 +1,14 @@
+UnlitGeneric
+{
+	"$basetexture"	"_rt_ZoomTexture"
+	"$nocull" 	"1"
+	"Proxies"
+	{
+		"Scope"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"scopeGeometry" "0"
+		}
+	}
+}
+

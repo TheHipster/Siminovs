@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\FNScar\Grip"
+	"$bumpmap" "models\weapons\FNScar\Grip_norm"
+}

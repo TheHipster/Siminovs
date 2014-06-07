@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\auga3\clip_strap"
+      	"$bumpmap" "models\weapons\auga3\clip_strap_normal"
+}

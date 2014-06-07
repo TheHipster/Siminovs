@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\m16a2\foregrip"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\m16a2\foregrip_ref"
+}

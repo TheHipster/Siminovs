@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\FNScar\Panel"
+	"$bumpmap" "models\weapons\FNScar\panel_norm"
+}

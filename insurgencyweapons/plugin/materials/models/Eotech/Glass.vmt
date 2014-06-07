@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" 	"models\Eotech\Glass"
+	"$additive" "1"
+	"$model" "1"	
+}

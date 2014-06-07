@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\p90\sights_up"
+	"$envmapmask" "models\weapons\p90\sights_up_ref"
+	"$envmap" "env_cubemap"
+}
